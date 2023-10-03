@@ -44,8 +44,6 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    /* Adiciona margem superior para compensar a altura do cabeçalho fixo */
-    /* Certifique-se de ajustar a altura de acordo com o tamanho do seu cabeçalho. */
     margin-top: 80px;
 }
 
